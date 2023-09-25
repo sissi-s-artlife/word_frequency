@@ -32,4 +32,3 @@ This project focuses on analyzing the inaugural addresses of U.S. presidents. In
 
 - **Research and Education:** This project is intended for research and educational purposes, offering a valuable resource for linguistic and political analysis.
 
-By breaking down the project overview into individual items, it provides a structured understanding of the project's objectives and components.
